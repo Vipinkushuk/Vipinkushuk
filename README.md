@@ -13,4 +13,4 @@ Full-stack developer | MERN Stack | C++ | Linux & Docker
 3. **Portfolio Website** - [Live Demo](#) | [Code](#)
 
 ## Contact
-- LinkedIn: [Vipin Kumar](https://linkedin.com/in/vipinkushuk)
+- LinkedIn: [Vipin Kumar](https://www.linkedin.com/in/vipin-kumar-5217a1218/)
