@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vipin 👋
+Full-stack developer | MERN Stack | C++ | Linux & Docker
 
-<!--
-**Vipinkushuk/Vipinkushuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Frontend: React, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB
+- Others: Git, Docker, AWS
 
-Here are some ideas to get you started:
+## Projects
+1. **Real-time Chat App** - [Live Demo](#) | [Code](#)
+2. **E-commerce Platform** - [Live Demo](#) | [Code](#)
+3. **Portfolio Website** - [Live Demo](#) | [Code](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [Vipin Kumar](https://linkedin.com/in/vipinkushuk)
