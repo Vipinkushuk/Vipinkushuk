@@ -1,5 +1,7 @@
 
-<!-- =============== HERO SECTION =============== -->
+<!-- ================================================= -->
+<!--                 VIPIN KUMAR                       -->
+<!-- ================================================= -->
 
 <div align="center">
 
@@ -7,7 +9,7 @@
 
 ### 🚀 Backend & Full-Stack Developer | MERN | Java | Spring Boot | Python | AWS
 
-**Building scalable applications • Designing APIs • Solving problems**
+**Building scalable applications • Designing REST APIs • Solving problems**
 
 <br/>
 
@@ -16,6 +18,9 @@
 </a>
 <a href="mailto:vipinkhushuk@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://vipinkumar.tech">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -26,27 +31,23 @@
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
-
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering from **IIIT Kota (2024)**
-- 💻 Backend-focused Software Developer with Full-Stack development experience.
+- 🎓 B.Tech in Electronics & Communication Engineering from **IIIT Kota (2024)**.
+- 💻 Backend-focused Software Developer with Full-Stack experience.
 - ⚡ Experienced in **MERN Stack, Java, Spring Boot and Python**.
 - 🔐 Interested in authentication, payment systems and scalable REST APIs.
-- ☁️ Hands-on with Docker, AWS, Git and CI/CD.
+- ☁️ Hands-on experience with Docker, AWS, Git and CI/CD.
 - 🧠 Strong foundation in DSA, OOP, DBMS and System Design.
-- 🎯 Passionate about building reliable, maintainable software.
+- 🎯 Passionate about building reliable and maintainable software.
 
 ---
 
-<!-- =============== TECH STACK =============== -->
-
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -56,7 +57,7 @@
 
 ### 🌐 MERN Stack & Frontend
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -68,26 +69,26 @@
 
 ### ⚙️ Backend Development
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### ☁️ Cloud, DevOps & Developer Tools
+### ☁️ Cloud, DevOps & Tools
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -101,8 +102,8 @@
 
 ### 🧠 Computer Science Fundamentals
 
-<p>
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-8A2BE2?style=for-the-badge"/>
+<p align="left">
+<img src="https://img.shields.io/badge/DSA-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-008080?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Operating_Systems-4B6584?style=for-the-badge"/>
@@ -112,53 +113,190 @@
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- ================================================= -->
+<!--                 FEATURED PROJECTS                 -->
+<!-- ================================================= -->
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 01 | Email Authentication System
-**MERN Stack**
+<table>
+<tr>
 
-- Signup, login and logout with JWT authentication.
-- Email verification and automated emails.
+<!-- PROJECT 1 -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 Email Authentication System</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Security-blueviolet?style=for-the-badge"/>
+</div>
+
+<br/>
+
+**Overview**
+
+A secure authentication application with email verification and password recovery.
+
+**Key Features**
+
+- User signup, login and logout.
+- JWT-based protected routes.
+- Email verification using token-based links.
 - Secure password reset with expiring tokens.
+- Automated welcome and verification emails.
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**Tech Stack**
 
----
+`React` `Node.js` `Express` `MongoDB` `JWT` `Mailtrap`
 
-### 02 | Real-Time Chat Application
-**MERN Stack + Socket.io**
+<br/>
 
-- Real-time messaging and online user status.
+<div align="center">
+<a href="YOUR_EMAIL_AUTH_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+</td>
+
+<!-- PROJECT 2 -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">💬 Real-Time Chat Application</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.io-Realtime-black?style=for-the-badge"/>
+</div>
+
+<br/>
+
+**Overview**
+
+A real-time messaging application with authentication and instant communication.
+
+**Key Features**
+
+- Real-time messaging using Socket.io.
+- Online user status.
 - JWT authentication and authorization.
 - REST APIs for users, chats and messages.
+- Zustand state management.
 
-`React` `Node.js` `MongoDB` `Socket.io` `Zustand`
+**Tech Stack**
 
----
+`React` `Node.js` `MongoDB` `Socket.io` `TailwindCSS` `Zustand`
 
-### 03 | Payment Gateway Simulator
-**Java Backend Engineering**
+<br/>
 
-- Payment authorization, capture and settlement.
+<div align="center">
+<a href="YOUR_CHAT_APP_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+
+<!-- PROJECT 3 -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">💳 Payment Gateway Simulator</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Payment-Backend-007ACC?style=for-the-badge"/>
+</div>
+
+<br/>
+
+**Overview**
+
+A backend payment simulator modeling essential payment lifecycle operations.
+
+**Key Features**
+
+- Authorization, capture and settlement.
 - Idempotent transaction handling.
 - Redis-based sliding-window fraud detection.
-- Webhook retry mechanism with exponential backoff.
+- Webhook retry with exponential backoff.
+- Auditable transaction architecture.
+
+**Tech Stack**
 
 `Java` `Spring Boot` `PostgreSQL` `Redis` `Docker`
 
----
+<br/>
 
-<!-- =============== GITHUB ANALYTICS =============== -->
+<div align="center">
+<a href="YOUR_PAYMENT_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+</td>
+
+<!-- PROJECT 4 -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Full-Stack E-Commerce Platform</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Full_Stack-Application-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge"/>
+</div>
+
+<br/>
+
+**Overview**
+
+A full-stack e-commerce application with separate customer and admin roles.
+
+**Key Features**
+
+- Customer and admin authentication.
+- Role-based access control.
+- Product and shopping management.
+- REST API integration.
+- JWT-based authentication.
+
+**Tech Stack**
+
+`React` `Django` `MongoDB` `JWT` `TailwindCSS`
+
+<br/>
+
+<div align="center">
+<a href="YOUR_ECOMMERCE_REPO_URL">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vipinkushuk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<a href="https://github.com/Vipinkushuk">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vipinkushuk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinkushuk&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Vipinkushuk">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinkushuk&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 <br/><br/>
 
@@ -168,9 +306,7 @@
 
 ---
 
-<!-- =============== CONTRIBUTION GRAPH =============== -->
-
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -180,9 +316,7 @@
 
 ---
 
-<!-- =============== ACHIEVEMENTS =============== -->
-
-## 🏆 Achievements & Coding
+## 🏆 Achievements & Coding Profiles
 
 <div align="center">
 
@@ -198,21 +332,17 @@
 
 ---
 
-<!-- =============== EDUCATION =============== -->
-
 ## 🎓 Education
 
 **Indian Institute of Information Technology, Kota**
 
 Bachelor of Technology — Electronics and Communication Engineering
 
-2020 – 2024
+📅 December 2020 – May 2024
 
 ---
 
-<!-- =============== CONNECT =============== -->
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -224,18 +354,19 @@ Bachelor of Technology — Electronics and Communication Engineering
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace with your actual LinkedIn and LeetCode URLs -->
-
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
 ### 💻 Build • Learn • Solve • Repeat
 
 **Thanks for visiting my profile! ⭐**
 
 </div>
+
